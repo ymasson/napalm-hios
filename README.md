@@ -8,7 +8,7 @@
 
 | Getter                    | Support  |
 |---------------------------|----------|
-| get_arp_table             |  ✅      |
+| get_arp_table             |  ❌      |
 | get_bgp_config            |  ❌      |
 | get_bgp_neighbors         |  ❌      |
 | get_bgp_neighbors_detail  |  ❌      |
@@ -18,7 +18,7 @@
 | get_firewall_policies     |  ❌      |
 | get_interfaces            |  ✅      |
 | get_interfaces_counters   |  ❌      |
-| get_interfaces_ip         |  ✅      |
+| get_interfaces_ip         |  ❌      |
 | get_ipv6_neighbors_table  |  ❌      |
 | get_lldp_neighbors        |  ❌      |
 | get_lldp_neighbors_detail |  ❌      |
